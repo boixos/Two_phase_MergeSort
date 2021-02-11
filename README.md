@@ -4,11 +4,11 @@
 
 ## DEADLINE: ​​11:55 pm, 4th February 2021
 
-## In this assignment, you have to implement the two-phase merge sort
+ In this assignment, you have to implement the two-phase merge sort
 
-## algorithm to sort a large number of records.
+ algorithm to sort a large number of records.
 
-## Programming Languages Allowed: ​Python, Java and C++
+ Programming Languages Allowed: ​Python, Java and C++
 
 # Part-1 (70% of marks)
 
